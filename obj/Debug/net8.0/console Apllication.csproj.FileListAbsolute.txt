@@ -1,0 +1,14 @@
+C:\Users\sathishk.ravi\Desktop\console Apllication\bin\Debug\net8.0\console Apllication.exe
+C:\Users\sathishk.ravi\Desktop\console Apllication\bin\Debug\net8.0\console Apllication.deps.json
+C:\Users\sathishk.ravi\Desktop\console Apllication\bin\Debug\net8.0\console Apllication.runtimeconfig.json
+C:\Users\sathishk.ravi\Desktop\console Apllication\bin\Debug\net8.0\console Apllication.dll
+C:\Users\sathishk.ravi\Desktop\console Apllication\bin\Debug\net8.0\console Apllication.pdb
+C:\Users\sathishk.ravi\Desktop\console Apllication\obj\Debug\net8.0\console Apllication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sathishk.ravi\Desktop\console Apllication\obj\Debug\net8.0\console Apllication.AssemblyInfoInputs.cache
+C:\Users\sathishk.ravi\Desktop\console Apllication\obj\Debug\net8.0\console Apllication.AssemblyInfo.cs
+C:\Users\sathishk.ravi\Desktop\console Apllication\obj\Debug\net8.0\console Apllication.csproj.CoreCompileInputs.cache
+C:\Users\sathishk.ravi\Desktop\console Apllication\obj\Debug\net8.0\console Apllication.dll
+C:\Users\sathishk.ravi\Desktop\console Apllication\obj\Debug\net8.0\refint\console Apllication.dll
+C:\Users\sathishk.ravi\Desktop\console Apllication\obj\Debug\net8.0\console Apllication.pdb
+C:\Users\sathishk.ravi\Desktop\console Apllication\obj\Debug\net8.0\console Apllication.genruntimeconfig.cache
+C:\Users\sathishk.ravi\Desktop\console Apllication\obj\Debug\net8.0\ref\console Apllication.dll
